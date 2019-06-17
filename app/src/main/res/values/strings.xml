@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WordApp</string>
+    <string name="about">About</string>
+    <string name="buttton">Button</string>
+    <string name="enter_word">Enter word</string>
+    <string name="sub">Submit</string>
+    <string name="enter_meaning">Enter Meaning</string>
+    <string name="word">Word</string>
+    <string name="meaning">Meaning</string>
+    <string name="asfd">asfd</string>
+</resources>
